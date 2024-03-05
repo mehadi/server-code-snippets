@@ -6,9 +6,9 @@ Here you'll find a collection of code snippets for various server-related tasks 
 
 Below is a list of available code snippets:
 
-1. [Configuring-aws-cli-for-digital-ocean-spaces](configuring-aws-cli-for-digital-ocean-spaces)
+1. [Configuring AWS CLI for DigitalOcean Spaces](configuring-aws-cli-for-digital-ocean-spaces)
 
-2. [Make_all_files_public_on_s3_or_digital_ocean_space](make_all_files_public_s3_or_digital_ocean_space)
+2. [Make All Files Public On S3 Or Digital Ocean Space](make_all_files_public_s3_or_digital_ocean_space)
 
 3. [Batch Script for Automated File Distribution with Placeholder Replacement](Batch%20Script%20for%20Automated%20File%20Distribution%20with%20Placeholder%20Replacement)
 
