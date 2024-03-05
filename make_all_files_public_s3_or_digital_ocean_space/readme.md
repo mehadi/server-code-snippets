@@ -7,7 +7,7 @@ This script is designed to make all objects within an Amazon S3 bucket publicly 
 Before using this script, ensure you have the following:
 
 1. **AWS CLI**: The script relies on the AWS Command Line Interface (CLI) being installed and configured on the system where the script will be executed. Make sure you have the AWS CLI installed and configured with appropriate permissions to access and modify the specified S3 bucket.
-
+See this [configuring-aws-cli-for-digital-ocean-spaces](..%2Fconfiguring-aws-cli-for-digital-ocean-spaces) repository to setup AWS Cli.
 ### Usage
 
 To use the script, follow these steps:
