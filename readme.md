@@ -14,10 +14,6 @@ Below is a list of available code snippets:
 
 We welcome contributions! Submit a pull request with clear instructions on how to use your snippet.
 
-## Code of Conduct
-
-Follow the WordPress Code of Conduct. Respect others and refrain from harassment.
-
 ## Disclaimer
 
 Use snippets at your own risk. Backup your server and test in a staging environment before deploying.
