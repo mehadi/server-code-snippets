@@ -12,6 +12,7 @@ Below is a list of available code snippets:
 4. [Automated Website Deployment to cPanel with GitHub Actions](Automated%20Website%20Deployment%20to%20cPanel%20with%20GitHub%20Actions)
 5. [How To Kill Process in Unix-like Systems](How%20To%20Kill%20Process%20in%20Unix-like%20Systems)
 6. [MariaDB Service Checker Script](MariaDB%20Service%20Checker%20Script)
+7. [Backup Website & Database Using CRON on Ubuntu](Backup%20Website%20%26%20Database%20Using%20CRON%20on%20Ubuntu)
 
 ## Contributing
 
